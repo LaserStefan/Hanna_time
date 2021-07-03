@@ -5,7 +5,7 @@ Authors: #IchBinHanna Research Collective
 
 This is part of a collaborative project that sits at the intersection of campaigning and doing (computational) social science research. Other output of the #IchBinHanna Research Collective [is stored here](https://github.com/LaserSteff/-IchbinHanna).
 
-Shield: [![CC BY 4.0][cc-by-shield]][cc-by]
+[![CC BY 4.0][cc-by-shield]][cc-by]
 
 This work is licensed under a
 [Creative Commons Attribution 4.0 International License][cc-by].
