@@ -1,7 +1,3 @@
-# Hanna_time
-This is an additional repo just to display one plotly graph interactively, and to deploy the graph on websites. [It is part of the project #IchBinHanna.](https://github.com/LaserSteff/IchbinHanna). The same licences apply: CC-BY-SA 4.0.
-
-
 # Analysis of Tweets for the #IchBinHannah Campaign
 
 Authors: #IchBinHanna Research Collective
@@ -9,7 +5,16 @@ Authors: #IchBinHanna Research Collective
 
 This is part of a collaborative project that sits at the intersection of campaigning and doing (computational) social science research. Other output of the #IchBinHanna Research Collective [is stored here](https://github.com/LaserSteff/-IchbinHanna).
 
-[![CC BY 4.0][cc-by-shield]][cc-by]
+Shield: [![CC BY 4.0][cc-by-shield]][cc-by]
+
+This work is licensed under a
+[Creative Commons Attribution 4.0 International License][cc-by].
+
+[![CC BY 4.0][cc-by-image]][cc-by]
+
+[cc-by]: http://creativecommons.org/licenses/by/4.0/
+[cc-by-image]: https://i.creativecommons.org/l/by/4.0/88x31.png
+[cc-by-shield]: https://img.shields.io/badge/License-CC%20BY%204.0-lightgrey.svg
 
 ## Data  
 
