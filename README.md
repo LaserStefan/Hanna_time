@@ -3,7 +3,7 @@
 Authors: #IchBinHanna Research Collective
 (In alphabetic order: David Adler, Migle Bareikyte, Elen Le Foll, Christian Funk, Stefan Laser, Jana Lasser)
 
-This is part of a collaborative project that sits at the intersection of campaigning and doing (computational) social science research. Other output of the #IchBinHanna Research Collective [is stored here](https://github.com/LaserSteff/-IchbinHanna).
+This is part of a collaborative project that sits at the intersection of campaigning and doing (computational) social science research. Other output of the #IchBinHanna Research Collective [is stored here](https://github.com/LaserSteff/IchbinHanna).
 
 [![CC BY 4.0][cc-by-shield]][cc-by]
 
@@ -32,4 +32,4 @@ in your command line. Similarly, by using the [twarc conversations](https://twar
 ```twarc2 conversations conversation_ids.txt conversations.jsonl```
 
 ## Frequency plot
-The plot [displayed for public exploration](https://lasersteff.github.io/Hanna_time/) is created using plotly. Check the Jupyter notebook ```plotly_interactive_time``` to see the code. The plot is stored in the ```index.html```.
+The plot [displayed for public exploration](https://lasersteff.github.io/Hanna_time/) is created using plotly. Check the Jupyter notebook ```plotly_interactive_time``` to see the code. The plot is stored in the ```index.html``` file.
