@@ -5,7 +5,7 @@ Authors: #IchBinHanna Research Collective
 
 This is part of a collaborative project that sits at the intersection of campaigning and doing (computational) social science research. Other output of the #IchBinHanna Research Collective [is stored here](https://github.com/LaserSteff/IchbinHanna).
 
-You may use or cite the output visualization (```index.html```, or [follow this link](https://lasersteff.github.io/Hanna_time/)):
+You may use or cite the output visualization (```index.html```, or [follow this link](https://laserstefan.github.io/Hanna_time/)):
 
 #IchBinHanna Research Collective. 2021. Analysis of Tweets for the #IchBinHannah Campaign. GitHub repository. https://doi.org/10.5281/zenodo.5068748
 
